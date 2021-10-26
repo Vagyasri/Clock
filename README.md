@@ -1,6 +1,6 @@
 # Clock
 
-In this Project, I have created an analog clock that shows the current time.
+In this Project, I have created an analog clock that shows the real time.
 
 ## Built With
 
