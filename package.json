@@ -1,0 +1,43 @@
+{
+  "name": "cusine-variant",
+  "version": "1.0.0",
+  "description": "In this project, we are creating a website consisting of Recipes from around the world. We are using a Kanban board for practice purposes and we have used an external API.s",
+  "private": true,
+  "scripts": {
+    "test": "jest",
+    "start": "webpack serve --open",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vagyasri/Cusine-variant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vagyasri/Cusine-variant/issues"
+  },
+  "homepage": "https://github.com/Vagyasri/Cusine-variant#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "css-loader": "^6.3.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.25.2",
+    "hint": "^6.1.4",
+    "html-webpack-plugin": "^5.3.2",
+    "jest": "^27.3.0",
+    "style-loader": "^3.3.0",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0",
+    "webpack": "^5.58.2",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.3.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
