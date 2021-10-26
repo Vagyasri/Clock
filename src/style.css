@@ -1,5 +1,5 @@
 body {
-  background: url("../src/clock-bg.jpeg");
+  background: url("../src/ironman.jpeg");
   background-size: cover;
   min-height: 100vh;
   display: flex;
@@ -32,4 +32,20 @@ body {
   height: 6px;
   top: 50%;
   position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 100%;
+  transition: all 0.05s;
+  transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
+}
+
+.hour-hand {
+  transform-origin: 100%;
+  width: 35%;
+  margin-left: 73px;
+}
+
+.min-hand {
+  transform-origin: 100%;
+  width: 45%;
+  margin-left: 25px;
 }
