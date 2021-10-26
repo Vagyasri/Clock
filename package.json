@@ -1,7 +1,7 @@
 {
-  "name": "cusine-variant",
+  "name": "clock",
   "version": "1.0.0",
-  "description": "In this project, we are creating a website consisting of Recipes from around the world. We are using a Kanban board for practice purposes and we have used an external API.s",
+  "description": "In this Project, I have created an analog clock that shows the current time.",
   "private": true,
   "scripts": {
     "test": "jest",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vagyasri/Cusine-variant.git"
+    "url": "git+https://github.com/Vagyasri/clock.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Vagyasri/Cusine-variant/issues"
+    "url": "https://github.com/Vagyasri/clock/issues"
   },
-  "homepage": "https://github.com/Vagyasri/Cusine-variant#readme",
+  "homepage": "https://github.com/Vagyasri/clock#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.3.0",
