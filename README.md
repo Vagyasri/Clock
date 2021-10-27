@@ -12,7 +12,7 @@ In this Project, I have created an analog clock that shows the real time.
 
 # Screenshot
 
-![Clock](clock.png)
+![Clock](Iron-clock.png)
 
 ## Live Demo
 
