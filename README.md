@@ -10,6 +10,10 @@ In this Project, I have created an analog clock that shows the real time.
 - Webpack
 - ES6
 
+# Screenshot
+
+![Clock](Clock.png)
+
 ## Live Demo
 
 [Live View!!](https://vagyasri.github.io/Clock/dist/)
